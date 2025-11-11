@@ -1,16 +1,24 @@
-## Hi there 👋
+## Soyeon Yang  
 
-<!--
-**goatyeon03/goatyeon03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | Dept. of Artificial Intelligence, SEOULTECH  
+🔬 Research Interests: **Neuroscience**, **Human EEG**, **Illness Detection with AI**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research Interests
+- **Neuroscience**: Neural mechanisms underlying behavior and cognition  
+- **Human EEG**: Signal processing, feature extraction, and deep learning approaches  
+- **Illness Detection**: AI-driven models for early diagnosis of neurological and mental disorders  
+
+---
+
+### 🛠 Skills
+- **Programming**: Python, C/C#, Java, HTML/CSS/JavaScript 
+- **AI/ML**: PyTorch, scikit-learn
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools**: Git, VSCode, Jupyter, Linux  
+
+---
+
+### 📫 Contact
+- **Email**: uaua1595@naver.com  
