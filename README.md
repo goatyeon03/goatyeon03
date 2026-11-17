@@ -1,13 +1,13 @@
 ## Soyeon Yang  
 
-🎓 Student | Dept. of Artificial Intelligence, SEOULTECH  
-🔬 Research Interests: **Computational Neuroscience**, **Decoding**, **Brain-AI Allignment**  
+🎓 Bachelor's Degree | Dept. of Artificial Intelligence, SEOULTECH  
+🔬 Research Interests: **Computational Neuroscience**, **Decision-Making**, **Brain-AI Allignment**  
 
 ---
 
 ### 🔬 Research Interests
 - **Computational Neuroscience**: Modelling the brain's processing of information with formulas and algorithms
-- **Decoding**: Data is obtained mainly through fMRI, EEG and analyzed with AI algorithms
+- **Decision-Making**: Exploration of the process of interpreting information and making decisions
 - **Brain-AI Allignment**: Analysis of changes and efficiency when biological brain mechanisms are implanted into artificial neural networks
 
 ---
@@ -21,4 +21,4 @@
 ---
 
 ### 📫 Contact
-- **Email**: uaua1595@naver.com / uaua1595@seoultech.ac.kr
+- **Email**: uaua1595@naver.com / yangsoyeon1123@gmail.com
